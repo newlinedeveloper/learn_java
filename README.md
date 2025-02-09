@@ -85,6 +85,3 @@
     - Deploying to Kubernetes  
 
 ---
-
-### **How Do You Want to Start?**  
-Would you like to start with hands-on coding exercises, small projects, or concept explanations? Let me know what learning style works best for you! 🚀
