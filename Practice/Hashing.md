@@ -1,3 +1,4 @@
+```
 import java.util.*;
 
 public class Main {
@@ -37,3 +38,5 @@ public class Main {
         System.out.println(groupAnagrams(words));
     }
 }
+
+```
