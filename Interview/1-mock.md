@@ -1,4 +1,3 @@
----
 
 ### **1. Default Methods in Interfaces (Java 8)**
 - Introduced in Java 8, default methods allow interfaces to have method implementations.
